@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "image": "http://medicare.bold-themes.com/pshychiatrist/wp-content/uploads/sites/7/2016/03/services-1.jpg",
+    "name": "Best psychological procedures",
+    "info": ""
+  },
+  {
+    "_id": "2",
+    "image": "http://placehold.it/32x32",
+    "name": "Palmer Lane",
+    "info": "<ReferenceError: info is not defined>"
+  },
+  {
+    "_id": "3",
+    "image": "http://placehold.it/32x32",
+    "name": "Terra Harris",
+    "info": "<ReferenceError: info is not defined>"
+  },
+  {
+    "_id": "4",
+    "image": "http://placehold.it/32x32",
+    "name": "Dillon Mccray",
+    "info": "<ReferenceError: info is not defined>"
+  }
+]

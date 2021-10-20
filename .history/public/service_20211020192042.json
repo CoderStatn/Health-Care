@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "image": "http://placehold.it/32x32",
+    "name": "Frieda Mckinney",
+    "info": "<ReferenceError: info is not defined>"
+  },
+  {
+    "_id": "6170177ab4ba78428ae54eaf",
+    "image": "http://placehold.it/32x32",
+    "name": "Palmer Lane",
+    "info": "<ReferenceError: info is not defined>"
+  },
+  {
+    "_id": "6170177a93af159663aa6de4",
+    "image": "http://placehold.it/32x32",
+    "name": "Terra Harris",
+    "info": "<ReferenceError: info is not defined>"
+  },
+  {
+    "_id": "6170177a5f1680b604fc2a03",
+    "image": "http://placehold.it/32x32",
+    "name": "Dillon Mccray",
+    "info": "<ReferenceError: info is not defined>"
+  }
+]
